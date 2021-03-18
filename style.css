@@ -3338,6 +3338,7 @@ html[xmlns] .slider-wrap {
   align-items: center;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
+  font-size: 15px;
 }
 
 @media (min-width: 992px) {
