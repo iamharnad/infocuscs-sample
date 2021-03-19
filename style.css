@@ -1909,6 +1909,7 @@ a.h-text-dark:hover {
   .col-mb-sm-50 > [class*='col-'] {
     padding-bottom: 50px;
   }
+  
 
   .col-mb-sm-80 {
     margin-bottom: -80px;
@@ -14086,6 +14087,7 @@ blockquote.float-right {
 
 .bg-overlay-bg {
   background-color: rgba(255, 255, 255, 0.85);
+  color: white;
 }
 
 .dark .bg-overlay-bg,
